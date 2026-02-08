@@ -8,10 +8,10 @@ const Step3 = () => {
       <Card>
         <TenorGif postId="15195810" />
         <h1 className="text-3xl font-cursive font-bold mt-4 text-japan-red">
-          Ek aur baar soch lo! 😣
+          Please reconsider... 💔
         </h1>
         <p className="text-gray-600 mt-2">
-          kyu aisa kar rahi ho 😣
+          You mean everything to me.
         </p>
         <Buttons yesLink="/yes" noLink="/step4" />
       </Card>

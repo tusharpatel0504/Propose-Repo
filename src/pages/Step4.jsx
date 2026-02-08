@@ -32,10 +32,10 @@ const Step4 = () => {
       <Card blur={false}>
         <TenorGif postId="15974530976611222074" />
         <h1 className="text-3xl font-cursive font-bold mt-4 text-japan-red">
-          Baby maan jao na 😭
+          Don't do this to me... 😔
         </h1>
         <p className="text-gray-600 mt-2">
-          Kitna bhaav khaogi yaar
+          Please give me a chance.
         </p>
         <Buttons yesLink="/yes" noLink="#" noId="move-random" />
       </Card>

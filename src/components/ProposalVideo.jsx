@@ -18,7 +18,7 @@ const ProposalVideo = () => {
         </div>
         
         <div className="text-center mt-6">
-           <h2 className="text-3xl font-cursive text-japan-red font-bold drop-shadow-sm">For you, my love 💖</h2>
+           <h2 className="text-3xl font-cursive text-japan-red font-bold drop-shadow-sm">Dedicated to you 💖</h2>
         </div>
       </div>
     </div>
